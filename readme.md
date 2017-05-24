@@ -14,7 +14,7 @@ python compile.py
 Kalo ente merasa bahwa kodingan ente udah layak, silakan push ke repository dengan cara:
 ```
 git remote add origin https://github.com/yezz007/ProyekAkhir
-git push origin master
+git push origin [nama Anda tanpa spasi]
 ```
 Dengan cara ini semua orang bisa menggunakan fitur yang Anda tambahkan
 
