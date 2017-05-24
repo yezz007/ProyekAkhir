@@ -9,3 +9,17 @@ git clone https://github.com/yezz007/ProyekAkhir
 ```
 python compile.py
 ```
+
+# Push Kodingan
+Kalo ente merasa bahwa kodingan ente udah layak, silakan push ke repository dengan cara:
+```
+git remote add origin https://github.com/yezz007/ProyekAkhir
+git push origin master
+```
+Dengan cara ini semua orang bisa menggunakan fitur yang Anda tambahkan
+
+# Reserved Registers
+Haram memakai register berikut:
+```
+lcd_module.asm : r16, r17, r18
+```
