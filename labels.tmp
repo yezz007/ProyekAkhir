@@ -1,0 +1,49 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega64</DEVICE>
+ <WORKING_DIR>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m64def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\ProyekAkhir.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\ProyekAkhir.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\ProyekAkhir.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <APP_INIT><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>4</LINE></APP_INIT>
+  <LCD_INIT_ALL><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>27</LINE></LCD_INIT_ALL>
+  <QUIT><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>11</LINE></QUIT>
+  <INIT_LCD><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>111</LINE></INIT_LCD>
+  <CLEAR_LCD><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>182</LINE></CLEAR_LCD>
+  <WRITE_CACAD_TO_LCD_A><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>59</LINE></WRITE_CACAD_TO_LCD_A>
+  <WRITE_KONYOL_TO_LCD_B><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>66</LINE></WRITE_KONYOL_TO_LCD_B>
+  <WRITE_KEREN_TO_LCD_C><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>73</LINE></WRITE_KEREN_TO_LCD_C>
+  <WRITE_GAUL_TO_LCD_D><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>80</LINE></WRITE_GAUL_TO_LCD_D>
+  <WRITE_AMPAS_TO_LCD_E><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>87</LINE></WRITE_AMPAS_TO_LCD_E>
+  <LCD_INIT_ALL_END><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>108</LINE></LCD_INIT_ALL_END>
+  <TEXT_CACAD><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>190</LINE></TEXT_CACAD>
+  <LOAD_BYTES><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>94</LINE></LOAD_BYTES>
+  <TEXT_KONYOL><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>194</LINE></TEXT_KONYOL>
+  <TEXT_KEREN><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>198</LINE></TEXT_KEREN>
+  <TEXT_GAUL><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>202</LINE></TEXT_GAUL>
+  <TEXT_AMPAS><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>206</LINE></TEXT_AMPAS>
+  <WRITE_END><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>103</LINE></WRITE_END>
+  <TEXT_LCD><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>175</LINE></TEXT_LCD>
+  <WRITE_LCD><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>121</LINE></WRITE_LCD>
+  <WRITE_LCD_A><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>145</LINE></WRITE_LCD_A>
+  <WRITE_LCD_B><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>151</LINE></WRITE_LCD_B>
+  <WRITE_LCD_C><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>157</LINE></WRITE_LCD_C>
+  <WRITE_LCD_D><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>163</LINE></WRITE_LCD_D>
+  <WRITE_LCD_E><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>169</LINE></WRITE_LCD_E>
+  <TEXT_OP><FILE>D:\Universitas Indonesia\Semester 2\POK\ProyekAkhir\main.asm</FILE><LINE>210</LINE></TEXT_OP>
+ </LABELS>
+</ASSEMBLER_INFO>
