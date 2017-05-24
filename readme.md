@@ -10,11 +10,14 @@ git clone https://github.com/yezz007/ProyekAkhir
 python compile.py
 ```
 
+# Aturan
+Jangan edit file yang bukan punya kalian! Buat file .asm baru saja
+
 # Push Kodingan
 Kalo ente merasa bahwa kodingan ente udah layak, silakan push ke repository dengan cara:
 ```
 git remote add origin https://github.com/yezz007/ProyekAkhir
-git push origin [nama Anda tanpa spasi]
+git push origin master
 ```
 Dengan cara ini semua orang bisa menggunakan fitur yang Anda tambahkan
 
